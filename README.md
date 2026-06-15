@@ -94,6 +94,13 @@ You can try questions such as:
 - Which movies produced by Yash Raj Films feature Shah Rukh Khan?
 - Which actors worked with both Rajkumar Hirani and Sanjay Leela Bhansali?
 
+## Credits
+
+This project is inspired by and builds on the work from Ramendra Kumar's Bollywood GraphRAG repository:
+https://github.com/Ramendra611/bollywood-graph-rag/tree/main
+
+Special thanks to the original creator for the foundational GraphRAG approach and Bollywood knowledge-graph concept used in this project.
+
 ## Notes
 
 The dataset in src/data/data.py covers a wide range of Hindi cinema from 1995 to 2024, including iconic films, producers, actors, directors, composers, and awards. The current GraphRAG implementation is designed to answer questions using graph-grounded evidence from that corpus.
